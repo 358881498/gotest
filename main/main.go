@@ -38,7 +38,7 @@ func main() {
 	fmt.Println(task1.SelectBracket("({[]})"))
 
 	//--------------1.4
-	//调用检查括号函数，转入字符串返回bool
+	//调用数组+1函数
 	fmt.Println(task1.PlusOne([]int{9, 9, 9}))
 	fmt.Println(task1.PlusOne([]int{2, 9, 9}))
 	fmt.Println(task1.PlusOne([]int{0, 0, 9}))
