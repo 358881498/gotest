@@ -47,7 +47,7 @@ func main() {
 
 	//--------------1.5
 	//调用删除有序数组中的重复项函数
-	//fmt.Println(task1.RemoveDuplicates([]int{0, 0, 1, 1, 4, 7, 1, 2, 2, 3, 3, 4}))
+	fmt.Println(task1.RemoveDuplicates([]int{0, 0, 1, 1, 4, 7, 1, 2, 2, 3, 3, 4}))
 
 	//--------------1.6
 	//调用数组区间合并
