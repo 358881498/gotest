@@ -6,7 +6,6 @@ import (
 	"math/rand"
 	"time"
 )
-
 func main() {
 	//-------------1.1
 
