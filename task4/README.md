@@ -18,7 +18,7 @@
 │   └── comment.go         # 评论模型
 ├── routes/
 │   └── routes.go          # 路由定义
-├── app.log                # 日志记录
+├── app.log                # 日志记录(自动生成日志文件)
 ├── go.mod                 # Go 模块定义
 ├── go.sum                 # Go 模块校验和
 ├── main.go                # 程序入口
